@@ -1,0 +1,12 @@
+	server  									
+				google api
+				uber api
+				bookings
+				logic for detemining bookings
+				Api for the client
+
+				client
+				cancel bookings
+				configure the settings
+				get authentication tokens for the person
+				
