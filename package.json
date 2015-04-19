@@ -1,0 +1,26 @@
+{
+  "name": "maxi-taxi",
+  "version": "0.0.0",
+  "description": "An entry for the uber hackathon",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deewar/maxi-taxi.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+	"uber"
+  ],
+  "license": "FUCK You this is mine JK"
+}
